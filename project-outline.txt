@@ -1,0 +1,67 @@
+Book Craze
+==========
+
+Sources
+-------
+- Amazon past orders ("Mein Konto" in upper right corner)
+- Android app "Book Worm"
+
+Intermediate result
+-------------------
+- XML file containing all data
+
+Final results
+-------------
+- HotFeet references view (incl. preview slideshow)
+- a few custom listings
+- export into Excel
+- HTML print view
+- PDF with a nice layout
+- simple search interface
+- some visualisations and other fun stuff
+
+Goals
+-----
+- overview of all concepts and tools, obviously
+- SEO www.hotfeet.ch:
+  -link from "Book Worm" project website (http://code.google.com/p/and-bookworm/)
+  - link from "Freemind" project website (http://freemind.sourceforge.net/wiki/index.php/Main_Page)
+
+Technical results
+-----------------
+- script to convert this file into a mind map
+- relational DB containing all data
+- C# database classes and data import
+- Jira project with all tickets (export?)
+- code repository containing all the code (GitHub)
+- one or two jquery plugins?
+- firefox extension?
+- Python script? (using http://wwwsearch.sourceforge.net/mechanize/)
+  - use http://bitkickers.blogspot.com/2011/01/backup-your-amazon-order-history-with.html?
+- freemind contribution? (use of correct XML)
+- diff of two mindmap versions
+
+- SEO-friendly demo page ("book craze" or something more SEO-juicy, www.book-craze.net?)
+- check if it's possible to register www.book-craze.test
+
+Evaluation
+----------
+- implement sample site with Umbraco
+
+
+The fun stuff
+-------------
+- book/tag cloud in shape of the HotFeet logo (http://www.tagxedo.com/)
+- Freemind Map (Years -> Books)
+- Hypertree (http://internal.hotfeet.ch/hf-v1/)
+- a few Raphaël visualisations (http://raphaeljs.com/)
+
+- 2D: fractal fern with with books as end points (http://en.wikipedia.org/wiki/Fractal#In_nature) 
+- 3D: photorealistic tree with books as leaves (http://www.blender.org/)?
+- HyperCube?
+
+- imap folder tree containing one nice HTML e-mail per book
+- Import into Facebook
+
+- prolog: "the n degrees of Kevin Bacon"
+
